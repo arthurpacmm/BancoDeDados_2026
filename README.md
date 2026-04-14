@@ -1,4 +1,8 @@
-Escola - https://app.brmodeloweb.com/#!/publicview/69b2998925dde5c84617f8a8
+Escola Conceitual - https://app.brmodeloweb.com/#!/publicview/69deb7d9c630eb74498abbe4
+Escola Lógico - https://app.brmodeloweb.com/#!/publicview/69deb801c630eb74498abbf9
+
+Imobiliária Conceitual - https://app.brmodeloweb.com/#!/publicview/69deb822c630eb74498abc11
+Imobiliária Lógico - https://app.brmodeloweb.com/#!/publicview/69deb855c630eb74498abc2f
 
 ### Atividade de Modelagem 09\04\2026
 
