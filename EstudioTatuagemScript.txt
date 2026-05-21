@@ -1,7 +1,7 @@
 CREATE TABLE tatuador 
 ( 
  id_tatuador INT AUTO_INCREMENT PRIMARY KEY,  
- idsenioridade INT NOT NULL,  
+ codsenioridade INT NOT NULL,  
  email VARCHAR(150) NULL UNIQUE,  
  datacontratacao DATE NOT NULL,  
  cpf CHAR(11) NOT NULL UNIQUE,  
